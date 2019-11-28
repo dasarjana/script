@@ -23,7 +23,7 @@ print(nama)
 print(alamat)
 print(umur)
 print(kelas)
-print("==============================================")
+print("=================PEMAHAMAN TAMBAHAN=============================")
 
 
 #Pemahaman Tambahan
